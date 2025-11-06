@@ -2,6 +2,8 @@
 
 A machine learning application that predicts weekly store sales using LightGBM and Streamlit.
 
+![Demo](assets/demo.gif)
+
 ## Project Structure
 
 ```
